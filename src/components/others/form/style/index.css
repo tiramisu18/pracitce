@@ -1,0 +1,19 @@
+.formItem{
+    height: 20px;
+       
+}
+.login-form{
+    width: 365px;
+    margin: auto;
+}
+.ant-form-item-label label{
+    color: #fff;
+}
+.login-form-button{
+    margin-left: 30px;
+    margin-top: 25px;
+    width: 300px;
+}
+.ant-radio-wrapper{
+    margin-top: -20px;
+}
